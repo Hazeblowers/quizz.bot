@@ -1,1 +1,0 @@
-worker: python loterie.py
